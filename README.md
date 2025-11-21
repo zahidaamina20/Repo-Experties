@@ -35,8 +35,8 @@ Shows which files are new, changed, or ready to commit.
 git Status
 
 2. Add (Stage) Files
-Add all files   --->    git add .
-Add specific file --->  git add index.html
+* Add all files   --->    git add .
+* Add specific file --->  git add index.html
 
 
 ## Commit (Save Changes)
