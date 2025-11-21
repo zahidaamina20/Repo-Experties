@@ -26,3 +26,8 @@ Here is the step-by-step flow you will follow every time:
 --> Push your code
 --> Pull updates
 --> Work with branches
+
+## Commit (Save Changes)
+
+git commit -m "message about what you changed"
+A commit is like a save point.
