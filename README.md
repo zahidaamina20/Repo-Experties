@@ -14,4 +14,17 @@ GitHub is a website where you store your Git projects online so your code is saf
 ## Flow of Git
 write --> Add --> Commit --> Push
 
+## Git Workflow 
+
+Here is the step-by-step flow you will follow every time:
+
+--> Initialize a repository
+--> Check file status
+--> Stage files
+--> Commit changes
+--> Connect to GitHub
+--> Push your code
+--> Pull updates
+--> Work with branches
+
 ## Topics Covers in 
