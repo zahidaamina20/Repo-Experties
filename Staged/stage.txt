@@ -1,4 +1,0 @@
-Check Status
-
-Shows which files are new, changed, or ready to commit.
-git Status

@@ -26,3 +26,14 @@ Here is the step-by-step flow you will follow every time:
 --> Push your code
 --> Pull updates
 --> Work with branches
+
+## Commands of git
+
+1. Check Status
+
+Shows which files are new, changed, or ready to commit.
+git Status
+
+2. Add (Stage) Files
+Add all files   --->    git add .
+Add specific file --->  git add index.html
