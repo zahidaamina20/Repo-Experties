@@ -11,6 +11,24 @@ GitHub is a website where you store your Git projects online so your code is saf
 * Git = tool
 * GitHub = website for hosting Git project
 
+## git installation & initalization
+
+1. Install Git
+
+Download Git from google: “Git download”.
+Install with default settings.
+
+Check Git installed:
+git --version
+
+## 2. Configure Git (One Time Only)
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+
+## Git Initialization 
+git init
+
+
 ## Flow of Git
 write --> Add --> Commit --> Push
 
