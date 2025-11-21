@@ -1,1 +1,5 @@
-## Git &GitHub Intro
+## Git & GitHub Intro
+
+## Flow of Git
+write --> Add --> Commit --> Push
+
