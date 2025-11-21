@@ -1,0 +1,10 @@
+## git installation
+
+1. Install Git
+
+Download Git from google: “Git download”.
+Install with default settings.
+
+Check Git installed:
+git --version
+
