@@ -26,5 +26,3 @@ Here is the step-by-step flow you will follow every time:
 --> Push your code
 --> Pull updates
 --> Work with branches
-
-## Topics Covers in 
